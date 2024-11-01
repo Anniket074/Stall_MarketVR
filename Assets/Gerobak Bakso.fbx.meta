@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: 5ed202c17d0736e489eaa846a2340777
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2_wood_frame_Surface_Color
+    second: {fileID: 2800000, guid: 3419b8ffa4dc14e4f9d5dba3da0b2c13, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CGRright_305_color
+    second: {fileID: 2800000, guid: 09d8d99bfc36ea24bb67bcd5599fed51, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_WoodFine0058_30_seamless_S_SPEC
+    second: {fileID: 2800000, guid: 82b626b7ab5db5a4a9f6e4021fa6ebb6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: basic_cube.2Surface_Color
+    second: {fileID: 2800000, guid: 8bde90cc17feeaf4897c8587573e9a8e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bodybaseSurface_Color
+    second: {fileID: 2800000, guid: 99e9fb22753af13429a93fff14819a6f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bottle_1Surface_Color
+    second: {fileID: 2800000, guid: 27aa095b49e5fe2458f76f734755019f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bottle_holderSurface_Color
+    second: {fileID: 2800000, guid: 7555d20c1af5f974bb24c48fbc45850d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cogsSurface_Color
+    second: {fileID: 2800000, guid: f8ca7eb55b29a6a4dbabee986b272c5a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cogs_holderSurface_Color
+    second: {fileID: 2800000, guid: 5f220fe1e50e9e248b5b193f176b951d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: edge_plankSurface_Color
+    second: {fileID: 2800000, guid: c30f13e5480e4d04e809be7df8118362, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: flipable_plankSurface_Color
+    second: {fileID: 2800000, guid: da6015870ed190f4b902313b04fd73dd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: flipable_standSurface_Color
+    second: {fileID: 2800000, guid: 2af99549a1ab1354684d2a70fc699424, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: foodboxSurface_Color
+    second: {fileID: 2800000, guid: f9e9169a4a1dd59438871cd4c990e4ac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: foodstock_standSurface_Color
+    second: {fileID: 2800000, guid: 1f2b8525b834c7c45aa8031972b4f55c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: front_standSurface_Color
+    second: {fileID: 2800000, guid: 1c16c498325cdb2408b4f3a8b8b021e1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: holder_pillar.1Surface_Color
+    second: {fileID: 2800000, guid: d5efe0ec94b2d49488cb8d68e636e739, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: holder_plankSurface_Color
+    second: {fileID: 2800000, guid: 2ff2694ccffca8f46b5dabd1d3b0f219, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: main_bodySurface_Color
+    second: {fileID: 2800000, guid: c14f5268fae8ca944a89d981e0fcb092, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: potSurface_Color
+    second: {fileID: 2800000, guid: 26d2ced3fd20cb54ab4922d934808e58, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pot_capSurface_Color
+    second: {fileID: 2800000, guid: 2c1a3dadff302e743a1ba1f4331e95b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pot_handlerSurface_Color
+    second: {fileID: 2800000, guid: b4bfab3e6770b844b9d1e85340d5abf8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: roadSurface_Color
+    second: {fileID: 2800000, guid: 79f2276629b71ef498d93a75c85a9d51, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: roofSurface_Color
+    second: {fileID: 2800000, guid: 26927dae8e0969c4c90ede99dd33db63, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: side_roadSurface_Color
+    second: {fileID: 2800000, guid: 83f250d88e4994d4da88bcbb367c2840, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: spokeSurface_Color
+    second: {fileID: 2800000, guid: e53ac66b0081b6c44be940ace0766b65, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stove_doorSurface_Color
+    second: {fileID: 2800000, guid: 023c8d9cd5b9b834f9217a69fe3ba6be, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: top_plankSurface_Color
+    second: {fileID: 2800000, guid: c93ebf618f9fd5c46bc9747a51ef6d98, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tubeholdSurface_Color
+    second: {fileID: 2800000, guid: 89c05d0318bb7f14aae076e0de40a1ac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tuberodSurface_Color
+    second: {fileID: 2800000, guid: 3d9327acc917ce14fac243c1e3e5cd43, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wheel_and_rimSurface_Color
+    second: {fileID: 2800000, guid: 91920c7b97563714f9f558d6bffa1bb8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood_frameSurface_Color
+    second: {fileID: 2800000, guid: e251baab667d0784fb92de200dfbbdbd, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
